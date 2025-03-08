@@ -1,8 +1,7 @@
 # Files
 There are two joysticks, a left handed and a right handed joystick. If the VGA 9 pin connector is mounted properly, both sticks can be attached to one gimbal.
 
-There will be two versions, one that is empty, meaning no special anchor points have been made. If you want to make your own I would suggest using these as a base and editing them to fit your own needs.
-The second version is how I printed it. Meaning there are screw holes and other additions specific to certain buttons/PCBs.
+The files are the version as how I printed them. Meaning there are screw holes and other additions specific to certain buttons/PCBs.
 
 The button caps might need to be adjusted depending on your printers accuracy. They should be a nice pressure fit. 
 
