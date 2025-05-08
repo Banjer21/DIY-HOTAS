@@ -18,5 +18,7 @@ Check out my [thingiverse](https://www.thingiverse.com/banjer21/designs) for som
 
 If you have any problems or questions, feel free to post them [here](https://github.com/Banjer21/DIY-HOTAS/issues).
 
+## License
 
+CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
 
