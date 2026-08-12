@@ -1,6 +1,6 @@
 # DIY HOTAS 
 
-This project will be updated, as of now only the joystick had been uploaded. The files need to be cleaned up a bit. 
+The files need to be cleaned up a bit. 
 
 
 ## Getting started
